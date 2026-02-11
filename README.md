@@ -16,9 +16,13 @@ Built an interactive Power BI Sales dashboard using Retail Sales data to analyse
 📌 Key insights
 
 Total customers - 300
+
 Total Sales - $844.67k
+
 Total Products - 300
+
 Total orders - 186
+
 Total Brands - 4
 
 
