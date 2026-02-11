@@ -1,0 +1,301 @@
+product_id,product_name,category,brand,price
+1,Product_1,Fashion,BrandD,475
+2,Product_2,Groceries,BrandA,3630
+3,Product_3,Fashion,BrandB,2735
+4,Product_4,Electronics,BrandA,1670
+5,Product_5,Sports,BrandD,2660
+6,Product_6,Sports,BrandC,3491
+7,Product_7,Home Appliances,BrandD,3065
+8,Product_8,Fashion,BrandB,3743
+9,Product_9,Electronics,BrandC,3950
+10,Product_10,Home Appliances,BrandB,972
+11,Product_11,Groceries,BrandC,1352
+12,Product_12,Home Appliances,BrandA,1414
+13,Product_13,Home Appliances,BrandA,4920
+14,Product_14,Fashion,BrandA,2998
+15,Product_15,Groceries,BrandD,177
+16,Product_16,Home Appliances,BrandB,2721
+17,Product_17,Electronics,BrandD,4327
+18,Product_18,Electronics,BrandA,700
+19,Product_19,Sports,BrandB,1165
+20,Product_20,Groceries,BrandA,2236
+21,Product_21,Groceries,BrandD,2549
+22,Product_22,Sports,BrandD,2443
+23,Product_23,Home Appliances,BrandD,1963
+24,Product_24,Groceries,BrandA,1418
+25,Product_25,Electronics,BrandB,4811
+26,Product_26,Electronics,BrandB,3697
+27,Product_27,Fashion,BrandA,3862
+28,Product_28,Groceries,BrandB,4770
+29,Product_29,Home Appliances,BrandA,2290
+30,Product_30,Sports,BrandB,1092
+31,Product_31,Sports,BrandC,2812
+32,Product_32,Home Appliances,BrandC,2292
+33,Product_33,Fashion,BrandD,1348
+34,Product_34,Sports,BrandC,3154
+35,Product_35,Groceries,BrandC,4698
+36,Product_36,Fashion,BrandC,4133
+37,Product_37,Groceries,BrandA,2097
+38,Product_38,Electronics,BrandC,3787
+39,Product_39,Fashion,BrandC,2251
+40,Product_40,Sports,BrandD,4118
+41,Product_41,Fashion,BrandC,3210
+42,Product_42,Fashion,BrandC,2070
+43,Product_43,Fashion,BrandB,297
+44,Product_44,Fashion,BrandD,2726
+45,Product_45,Groceries,BrandD,1302
+46,Product_46,Electronics,BrandD,2135
+47,Product_47,Home Appliances,BrandD,577
+48,Product_48,Fashion,BrandD,1354
+49,Product_49,Sports,BrandD,1022
+50,Product_50,Fashion,BrandA,519
+51,Product_51,Sports,BrandC,2304
+52,Product_52,Groceries,BrandD,2697
+53,Product_53,Sports,BrandC,1220
+54,Product_54,Home Appliances,BrandC,3168
+55,Product_55,Electronics,BrandA,1050
+56,Product_56,Sports,BrandD,2436
+57,Product_57,Sports,BrandB,2343
+58,Product_58,Electronics,BrandA,2745
+59,Product_59,Home Appliances,BrandB,1957
+60,Product_60,Fashion,BrandC,4712
+61,Product_61,Sports,BrandC,1965
+62,Product_62,Electronics,BrandA,3012
+63,Product_63,Groceries,BrandA,2953
+64,Product_64,Electronics,BrandB,3328
+65,Product_65,Groceries,BrandD,3819
+66,Product_66,Home Appliances,BrandB,3328
+67,Product_67,Fashion,BrandA,2471
+68,Product_68,Electronics,BrandB,2991
+69,Product_69,Sports,BrandA,3856
+70,Product_70,Home Appliances,BrandB,4325
+71,Product_71,Electronics,BrandA,194
+72,Product_72,Sports,BrandA,2774
+73,Product_73,Electronics,BrandA,2055
+74,Product_74,Groceries,BrandD,893
+75,Product_75,Electronics,BrandB,1934
+76,Product_76,Electronics,BrandB,2216
+77,Product_77,Electronics,BrandB,4206
+78,Product_78,Home Appliances,BrandA,3425
+79,Product_79,Electronics,BrandB,3019
+80,Product_80,Sports,BrandB,2697
+81,Product_81,Groceries,BrandA,3305
+82,Product_82,Groceries,BrandC,4907
+83,Product_83,Electronics,BrandA,914
+84,Product_84,Home Appliances,BrandB,445
+85,Product_85,Home Appliances,BrandA,2449
+86,Product_86,Sports,BrandC,462
+87,Product_87,Electronics,BrandA,2543
+88,Product_88,Groceries,BrandB,2365
+89,Product_89,Home Appliances,BrandC,2288
+90,Product_90,Electronics,BrandD,3105
+91,Product_91,Home Appliances,BrandB,3381
+92,Product_92,Home Appliances,BrandC,1084
+93,Product_93,Groceries,BrandC,1739
+94,Product_94,Fashion,BrandD,927
+95,Product_95,Sports,BrandA,2830
+96,Product_96,Sports,BrandA,3631
+97,Product_97,Groceries,BrandB,4551
+98,Product_98,Home Appliances,BrandD,3035
+99,Product_99,Electronics,BrandA,3976
+100,Product_100,Home Appliances,BrandD,226
+101,Product_101,Groceries,BrandA,3277
+102,Product_102,Sports,BrandC,3156
+103,Product_103,Home Appliances,BrandA,703
+104,Product_104,Sports,BrandD,3549
+105,Product_105,Electronics,BrandC,4246
+106,Product_106,Sports,BrandC,3633
+107,Product_107,Sports,BrandC,3467
+108,Product_108,Fashion,BrandD,3468
+109,Product_109,Fashion,BrandB,3897
+110,Product_110,Fashion,BrandB,1892
+111,Product_111,Sports,BrandB,2961
+112,Product_112,Groceries,BrandD,3576
+113,Product_113,Sports,BrandC,3517
+114,Product_114,Groceries,BrandB,1745
+115,Product_115,Groceries,BrandD,1305
+116,Product_116,Fashion,BrandB,3130
+117,Product_117,Home Appliances,BrandA,2972
+118,Product_118,Electronics,BrandB,3172
+119,Product_119,Fashion,BrandB,1954
+120,Product_120,Fashion,BrandC,4121
+121,Product_121,Home Appliances,BrandD,4762
+122,Product_122,Electronics,BrandC,2808
+123,Product_123,Sports,BrandC,3602
+124,Product_124,Sports,BrandC,1432
+125,Product_125,Fashion,BrandC,301
+126,Product_126,Electronics,BrandC,3607
+127,Product_127,Fashion,BrandB,4312
+128,Product_128,Groceries,BrandC,674
+129,Product_129,Fashion,BrandC,636
+130,Product_130,Fashion,BrandD,1725
+131,Product_131,Sports,BrandA,2222
+132,Product_132,Sports,BrandB,485
+133,Product_133,Sports,BrandB,3381
+134,Product_134,Groceries,BrandB,574
+135,Product_135,Sports,BrandC,517
+136,Product_136,Electronics,BrandC,3700
+137,Product_137,Home Appliances,BrandC,1054
+138,Product_138,Electronics,BrandD,4958
+139,Product_139,Electronics,BrandA,1305
+140,Product_140,Sports,BrandC,4859
+141,Product_141,Home Appliances,BrandA,4220
+142,Product_142,Home Appliances,BrandD,2090
+143,Product_143,Home Appliances,BrandB,4905
+144,Product_144,Groceries,BrandC,3672
+145,Product_145,Sports,BrandA,4480
+146,Product_146,Home Appliances,BrandA,4258
+147,Product_147,Groceries,BrandC,4857
+148,Product_148,Fashion,BrandB,2813
+149,Product_149,Fashion,BrandB,2303
+150,Product_150,Groceries,BrandB,3220
+151,Product_151,Groceries,BrandD,1066
+152,Product_152,Sports,BrandA,3532
+153,Product_153,Sports,BrandA,788
+154,Product_154,Fashion,BrandA,4343
+155,Product_155,Home Appliances,BrandD,3801
+156,Product_156,Fashion,BrandA,441
+157,Product_157,Home Appliances,BrandD,1824
+158,Product_158,Home Appliances,BrandB,4522
+159,Product_159,Sports,BrandC,1892
+160,Product_160,Electronics,BrandA,1859
+161,Product_161,Electronics,BrandA,3312
+162,Product_162,Groceries,BrandB,1089
+163,Product_163,Sports,BrandC,2362
+164,Product_164,Home Appliances,BrandD,2582
+165,Product_165,Electronics,BrandC,1051
+166,Product_166,Home Appliances,BrandB,822
+167,Product_167,Electronics,BrandB,3489
+168,Product_168,Electronics,BrandC,2179
+169,Product_169,Electronics,BrandD,2817
+170,Product_170,Sports,BrandD,2432
+171,Product_171,Fashion,BrandA,3476
+172,Product_172,Home Appliances,BrandD,4624
+173,Product_173,Sports,BrandC,1600
+174,Product_174,Sports,BrandB,385
+175,Product_175,Sports,BrandA,3595
+176,Product_176,Sports,BrandA,2165
+177,Product_177,Sports,BrandB,868
+178,Product_178,Groceries,BrandD,3157
+179,Product_179,Home Appliances,BrandB,4389
+180,Product_180,Sports,BrandD,2261
+181,Product_181,Home Appliances,BrandB,3393
+182,Product_182,Groceries,BrandC,1046
+183,Product_183,Groceries,BrandD,3435
+184,Product_184,Home Appliances,BrandC,4250
+185,Product_185,Electronics,BrandA,4995
+186,Product_186,Fashion,BrandB,4973
+187,Product_187,Electronics,BrandA,1581
+188,Product_188,Electronics,BrandA,2001
+189,Product_189,Electronics,BrandA,3551
+190,Product_190,Sports,BrandA,4164
+191,Product_191,Groceries,BrandB,154
+192,Product_192,Electronics,BrandA,1923
+193,Product_193,Groceries,BrandB,3562
+194,Product_194,Home Appliances,BrandB,3179
+195,Product_195,Fashion,BrandC,932
+196,Product_196,Home Appliances,BrandD,4508
+197,Product_197,Home Appliances,BrandD,2906
+198,Product_198,Sports,BrandB,2590
+199,Product_199,Fashion,BrandC,427
+200,Product_200,Home Appliances,BrandB,3410
+201,Product_201,Home Appliances,BrandB,3400
+202,Product_202,Fashion,BrandB,3775
+203,Product_203,Fashion,BrandC,3154
+204,Product_204,Home Appliances,BrandD,2243
+205,Product_205,Fashion,BrandC,1411
+206,Product_206,Home Appliances,BrandA,3291
+207,Product_207,Home Appliances,BrandC,2638
+208,Product_208,Sports,BrandC,4083
+209,Product_209,Electronics,BrandC,4647
+210,Product_210,Home Appliances,BrandC,264
+211,Product_211,Groceries,BrandD,4377
+212,Product_212,Electronics,BrandA,922
+213,Product_213,Electronics,BrandD,1043
+214,Product_214,Electronics,BrandD,4525
+215,Product_215,Sports,BrandC,874
+216,Product_216,Home Appliances,BrandB,2298
+217,Product_217,Sports,BrandB,3256
+218,Product_218,Home Appliances,BrandD,4342
+219,Product_219,Sports,BrandD,3795
+220,Product_220,Sports,BrandC,3552
+221,Product_221,Groceries,BrandD,1014
+222,Product_222,Sports,BrandC,1408
+223,Product_223,Fashion,BrandB,4277
+224,Product_224,Groceries,BrandB,613
+225,Product_225,Sports,BrandA,2020
+226,Product_226,Electronics,BrandB,3694
+227,Product_227,Fashion,BrandD,4941
+228,Product_228,Fashion,BrandB,1509
+229,Product_229,Fashion,BrandC,4902
+230,Product_230,Groceries,BrandB,4666
+231,Product_231,Sports,BrandA,3290
+232,Product_232,Sports,BrandB,4591
+233,Product_233,Electronics,BrandC,1655
+234,Product_234,Electronics,BrandC,904
+235,Product_235,Fashion,BrandD,1379
+236,Product_236,Electronics,BrandB,3677
+237,Product_237,Groceries,BrandC,3001
+238,Product_238,Sports,BrandA,1487
+239,Product_239,Fashion,BrandD,4788
+240,Product_240,Electronics,BrandA,2861
+241,Product_241,Groceries,BrandB,2779
+242,Product_242,Groceries,BrandB,2206
+243,Product_243,Electronics,BrandB,4323
+244,Product_244,Sports,BrandD,4931
+245,Product_245,Electronics,BrandC,2868
+246,Product_246,Fashion,BrandD,4053
+247,Product_247,Electronics,BrandA,3286
+248,Product_248,Groceries,BrandD,3380
+249,Product_249,Electronics,BrandA,2673
+250,Product_250,Sports,BrandD,4716
+251,Product_251,Home Appliances,BrandC,2699
+252,Product_252,Electronics,BrandA,4133
+253,Product_253,Sports,BrandB,336
+254,Product_254,Sports,BrandB,1404
+255,Product_255,Groceries,BrandD,3530
+256,Product_256,Sports,BrandB,1401
+257,Product_257,Sports,BrandA,2641
+258,Product_258,Sports,BrandB,2151
+259,Product_259,Sports,BrandC,541
+260,Product_260,Fashion,BrandC,2176
+261,Product_261,Fashion,BrandD,3280
+262,Product_262,Groceries,BrandA,2757
+263,Product_263,Electronics,BrandC,3898
+264,Product_264,Sports,BrandC,904
+265,Product_265,Electronics,BrandA,174
+266,Product_266,Electronics,BrandB,2275
+267,Product_267,Groceries,BrandB,4024
+268,Product_268,Sports,BrandD,2189
+269,Product_269,Sports,BrandB,140
+270,Product_270,Home Appliances,BrandA,2181
+271,Product_271,Electronics,BrandC,4783
+272,Product_272,Electronics,BrandB,1722
+273,Product_273,Fashion,BrandD,441
+274,Product_274,Home Appliances,BrandB,4152
+275,Product_275,Fashion,BrandA,2174
+276,Product_276,Fashion,BrandD,745
+277,Product_277,Fashion,BrandB,4926
+278,Product_278,Groceries,BrandD,4363
+279,Product_279,Groceries,BrandA,709
+280,Product_280,Fashion,BrandC,554
+281,Product_281,Home Appliances,BrandA,3053
+282,Product_282,Electronics,BrandA,1808
+283,Product_283,Home Appliances,BrandA,3572
+284,Product_284,Sports,BrandA,3069
+285,Product_285,Groceries,BrandC,3128
+286,Product_286,Electronics,BrandC,4897
+287,Product_287,Electronics,BrandD,2781
+288,Product_288,Sports,BrandB,3729
+289,Product_289,Sports,BrandC,4325
+290,Product_290,Fashion,BrandC,3167
+291,Product_291,Groceries,BrandB,1486
+292,Product_292,Groceries,BrandC,3876
+293,Product_293,Home Appliances,BrandA,2966
+294,Product_294,Fashion,BrandA,4888
+295,Product_295,Fashion,BrandB,3463
+296,Product_296,Fashion,BrandD,4989
+297,Product_297,Fashion,BrandD,4224
+298,Product_298,Groceries,BrandB,248
+299,Product_299,Groceries,BrandB,3950
+300,Product_300,Fashion,BrandA,2158
