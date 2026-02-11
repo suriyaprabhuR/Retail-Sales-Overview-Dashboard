@@ -11,6 +11,8 @@ The dataset captures complete sales transactions — from customer details and p
 
 Built an interactive Power BI Sales dashboard using Retail Sales data to analyse performance and business trends.
 
+
+
 📌 Key insights
 
 Total customers - 300
@@ -18,6 +20,8 @@ Total Sales - $844.67k
 Total Products - 300
 Total orders - 186
 Total Brands - 4
+
+
 
 
 📌 Key Insights overview
@@ -65,6 +69,8 @@ Identified performance gaps for strategic improvement.
 
 
 
+
+
 🛠️ Tools & Technologies Used
 
 SQL (Joins, Aggregations, Subqueries, CTEs)
@@ -77,6 +83,8 @@ Excel (Initial Data Cleaning)
 
 
 
+
+
 📌 Business Impact
 
 ✔ Helps management track performance against targets
@@ -86,6 +94,8 @@ Excel (Initial Data Cleaning)
  ✔ Identifies high-value customers for retention campaigns
 
  ✔ Enables better inventory and demand planning
+
+ 
 
 
 
